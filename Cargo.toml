@@ -1,0 +1,8 @@
+[package]
+name = "hello-world-rust"
+version = "0.1.0"
+authors = ["Anubhav Mishra <anubhavmishra@me.com>"]
+
+[dependencies]
+rocket = "0.3.6"
+rocket_codegen = "0.3.6"
